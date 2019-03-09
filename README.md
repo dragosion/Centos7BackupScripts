@@ -1,6 +1,11 @@
 # Centos7BackupScripts
 Centos7BackupScripts
 
+Anyone interested to collaborate or use this is more than welcomed.
+Compiled bits of info into one script.
+Lots of things need improving but hopefully not for long.
+
+
 Copy script to to /etc/dibackup/backup-tar-script.sh
 
 
